@@ -1,4 +1,4 @@
-# Credit Card Transaction Fraud Detection
+# Supervised Fraud Detection for Credit Card Transaction
 This project is to predict credit card transaction fraud using **supervised learning methods**.
 
 # Overview
